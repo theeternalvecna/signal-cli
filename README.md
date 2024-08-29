@@ -1,6 +1,5 @@
-  #`daemon https://github.com/theeternalvecna/#signal-cli`
-
-[![signal-cli CI](https://github.com/theeternalvecna/signal-cli/actions/workflows/ci.yml/badge.svg)](https://github.com/theeternalvecna/signal-cli/actions/workflows/ci.yml)
+  #`daemon https://github.com/theeternalvecna/#signal-cli
+[![signal-cli CI](https://github.com/theeternalvecna/signal-cli/actions/workflows/ci.yml/badge.svg)](https://github.com/theeternalvecna/signal-cli/actions/workflows/ci.yml)`
 
 signal-cli is a commandline interface for the [Signal messenger](https://signal.org/).
 It supports registering, verifying, sending and receiving messages.
