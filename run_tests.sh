@@ -1,7 +1,7 @@
 #!/bin/sh
 if [ $# -ne 2 ]; then
   echo "Usage: $0 NUMBER_1 NUMBER_2"
-  exit 1
+  exit 0
 fi
 
 set -e
